@@ -144,8 +144,6 @@ const CreatePoint = () => {
 
     await api.post('collect_points', data);
 
-    alert('Parabéns! Ponto de coleta criado!')
-
     history.push('/');
   };
 
