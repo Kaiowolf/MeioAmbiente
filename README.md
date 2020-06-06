@@ -49,5 +49,3 @@ Utilize o `expo start` e após abrir o Metro Bundler você vai preciar baixar ap
 - [IOS] (https://apps.apple.com/br/app/expo-client/id982107779)
 
 OBS: Não esqueça de instalar as o <strong>package.json</strong> com as dependencias pelo `npm install`
-
-<img src="https://media.giphy.com/media/cmOHagneQgAN6BhsYF/giphy.gif" width="232" height="480" />
