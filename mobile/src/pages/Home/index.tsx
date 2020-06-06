@@ -1,4 +1,4 @@
-import React, { useState, useEffect, ChangeEvent } from 'react';
+import React, { useState, useEffect } from 'react';
 import { Feather as Icon } from '@expo/vector-icons';
 import { View, ImageBackground , Image, StyleSheet, Text } from 'react-native';
 import { RectButton } from 'react-native-gesture-handler';
@@ -18,7 +18,7 @@ const Home = () => {
   const navigation = useNavigation();
   const [ufs, setUfs] = useState<string[]>([]);
   const [cities, setCities] = useState<string[]>([]);
-   const [selectedUf, setSelectedUf] = useState('0');
+  const [selectedUf, setSelectedUf] = useState('0');
   const [selectedCity, setSelectedCity] = useState('0');
 
   function handleNavigateTopPoints() {
