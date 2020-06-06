@@ -35,6 +35,8 @@ Para o cadastramento foi utilizado a API do IBGE.
 
 Utilizar o `npm start`. Vai abrir pelo http://localhost:3000 como padrão.
 
+#### Web Demo
+[<img src="https://github.com/Kaiowolf/MeioAmbiente/blob/master/image-web-ecoleta.jpg" width="650" height="350"/>](https://youtu.be/YvRstOSycFY)
 
 ## MOBILE
 
