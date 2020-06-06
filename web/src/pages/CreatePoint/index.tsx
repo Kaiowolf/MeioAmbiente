@@ -144,7 +144,7 @@ const CreatePoint = () => {
 
     await api.post('collect_points', data);
 
-    history.push('/');
+    history.push('/success-page');
   };
 
   return (
