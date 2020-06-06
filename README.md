@@ -49,3 +49,6 @@ Utilize o `expo start` e após abrir o Metro Bundler você vai preciar baixar ap
 - [IOS] (https://apps.apple.com/br/app/expo-client/id982107779)
 
 OBS: Não esqueça de instalar as o <strong>package.json</strong> com as dependencias pelo `npm install`
+
+#### Mobile Demo
+[<img src="https://github.com/Kaiowolf/MeioAmbiente/blob/master/image-mobile-ecoleta.jpg" width="150" height="350"/>](https://youtu.be/GU4xhyhDy8Q)
