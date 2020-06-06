@@ -31,5 +31,22 @@ algum software como [Insomnia] ou [Postman].
 
 Para o cadastramento foi utilizado a API do IBGE.
 
+### Abrindo na web
+
+Utilizar o `npm start`. Vai abrir pelo http://localhost:3000 como padrão.
+
 
 ## MOBILE
+
+- [EXPO] (https://expo.io/)
+
+### Abrindo o mobile
+
+Utilize o `expo start` e após abrir o Metro Bundler você vai preciar baixar aplicativo do Expo pelo celular.
+[ANDROID] (https://play.google.com/store/apps/details?id=host.exp.exponent)
+
+[IOS] (https://apps.apple.com/br/app/expo-client/id982107779)
+
+OBS: Não esqueça de instalar as o <strong>package.json</strong> com as dependencias pelo `npm install`
+
+![Mobile Application View](https://media.giphy.com/media/cmOHagneQgAN6BhsYF/giphy.gif)
